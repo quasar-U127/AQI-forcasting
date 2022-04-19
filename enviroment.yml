@@ -1,0 +1,12 @@
+name: null
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - autopep8
+  - scipy
+  - scikit-learn
+  - notebook
